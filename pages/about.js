@@ -1,7 +1,9 @@
+import Layout from '../components/Layout'
+
 export default function aboutPage() {
     return (
-        <div>
+        <Layout title='About DJ Events'>
             <h1>About</h1>
-        </div>
+        </Layout>
     )
 }
